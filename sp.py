@@ -34,7 +34,6 @@ def display_report(name, subjects, marks, total, percentage, grade):
     print("Grade       :", grade)
     print("=================================")
 
-# --- Main Program ---
 
 name = input("Enter student name: ")
 
